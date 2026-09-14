@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LeslyDTech.LeslyDTech" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Lesly.;Computer+Science+Student.;I+dream+big." />
+    <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Lesly.;Computer+Science+Student.;I+dream+big." />
 </h1>
 <h3 align="center">A passionate software developer from Puerto Rico</h3>
 <br/>
